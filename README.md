@@ -2,7 +2,7 @@
 
 ### About me:
 
-<img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=marcos-inja&theme=onestar&column=8" />
+<img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&column=8" />
 
 ### 📫 Contact me:
 
