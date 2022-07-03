@@ -1,4 +1,4 @@
-## <p align="center">Hi <img src="gifs/hi.gif" width="32">, my name is Yan Lucas </br> </br> I'am a frontend developer</p>
+## <p align="center">Hi <img src="gifs/hi.gif" width="32">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
 
 ### About me:
 
