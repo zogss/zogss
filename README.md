@@ -6,11 +6,11 @@
 
 ### 📫 Contact me:
 
-<a href="mailto:yanlucasbranco@gmail.com-">
+<a href="mailto:yanlucasbranco@gmail.com-" target="_blank">
 <img alt="e-mail" src="https://img.shields.io/badge/yanlucasbranco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/yan_llucasb/">
+<a href="https://www.instagram.com/yan_llucasb/" target="_blank">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
