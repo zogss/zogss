@@ -1,4 +1,4 @@
-## <p align="center">Hi <img src="gifs/hi.gif" width="32">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
+## <p align="center">Hi <img src="gifs/hi.gif" width="25">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
 
 <img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&column=8" />
 
@@ -40,7 +40,7 @@
     <img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p> <br>
 
-## My contribuitions
+## <img src="gifs/rocket.gif" width="25"> My contribuitions
 
 ![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.svg)
 <!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=zogss&color=blue&style=flat-square"/>
