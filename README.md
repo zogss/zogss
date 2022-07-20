@@ -38,8 +38,9 @@
     <img alt="status github, commits, etc..." height="200px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> <br>
     <img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
-</p>
+</p> <br>
 
+## My contribuitions
 
 ![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.svg)
 <!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=zogss&color=blue&style=flat-square"/>
