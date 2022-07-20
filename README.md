@@ -41,7 +41,7 @@
 </p>
 
 
-![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.svg)
 <!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=zogss&color=blue&style=flat-square"/>
  -->
 <!---
