@@ -34,7 +34,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
 
-### <img src="gifs/haha.gif" width="25"> Github stats
+#### <img src="gifs/haha.gif" width="25"> Github stats
 
 <p align="center">
     <img alt="status github, commits, etc..." height="180px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
@@ -42,7 +42,7 @@
     <img alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p><br>
 
-# <img src="gifs/rocket.gif" width="45"> My contribuitions
+### <img src="gifs/rocket.gif" width="45"> My contribuitions
 
 ![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.svg)
 
