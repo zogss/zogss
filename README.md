@@ -1,8 +1,8 @@
-## <p align="center">Hi <img src="gifs/hi.gif" width="25">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
+# <p align="center">Hi <img src="gifs/hi.gif" width="25">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
 
-<img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&column=8" />
+<p align="center"><img alt="achievements" width="100%" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&column=8" /></p>
 
-### 📫 Contact me:
+## 📫 Contact me:
 
 <a href="mailto:yanlucasbranco@gmail.com-" target="_blank">
 <img alt="e-mail" src="https://img.shields.io/badge/yanlucasbranco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -12,7 +12,7 @@
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-### ⚙️ My skills
+## ⚙️ My skills
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -23,26 +23,29 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📚 Learning
+## 📚 Learning
 
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AlpineJs](https://img.shields.io/badge/Alpine.js-2D3441?style=for-the-badge&logo=Alpine.js&logoColor=77C1D2)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
 
-## <img src="gifs/haha.gif" width="25"> Github stats
+# <img src="gifs/haha.gif" width="25"> Github stats
 
 <p align="center">
-    <img alt="status github, commits, etc..." height="200px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> <br>
-    <img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
-</p> <br>
+    <img alt="status github, commits, etc..." height="180px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /><br>
+    <img alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
+</p><br>
 
-## <img src="gifs/rocket.gif" width="45"> My contribuitions
+# <img src="gifs/rocket.gif" width="45"> My contribuitions
 
 ![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.svg)
+
 <!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=zogss&color=blue&style=flat-square"/>
  -->
 <!---
