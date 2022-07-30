@@ -1,8 +1,8 @@
-# <p align="center">Hi <img src="gifs/hi.gif" width="25">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
+### <p align="center">Hi <img src="gifs/hi.gif" width="25">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
 
 <p align="center"><img alt="achievements" width="100%" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&column=8" /></p>
 
-## 📫 Contact me:
+#### 📫 Contact me:
 
 <a href="mailto:yanlucasbranco@gmail.com-" target="_blank">
 <img alt="e-mail" src="https://img.shields.io/badge/yanlucasbranco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -12,7 +12,7 @@
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-## ⚙️ My skills
+#### ⚙️ My skills
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📚 Learning
+#### 📚 Learning
 
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,7 +34,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
 
-# <img src="gifs/haha.gif" width="25"> Github stats
+### <img src="gifs/haha.gif" width="25"> Github stats
 
 <p align="center">
     <img alt="status github, commits, etc..." height="180px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
