@@ -25,6 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-f2437e?style=for-the-badge&logo=Storybook&logoColor=white)
 
 #### 📚 Learning
 
