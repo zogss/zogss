@@ -26,12 +26,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-f2437e?style=for-the-badge&logo=Storybook&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white)
+![HandlebarsJs](https://img.shields.io/badge/Handlebars.js-141414?style=for-the-badge&logo=Handlebars.js&logoColor=white)
 
 #### 📚 Learning
 
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![HandlebarsJs](https://img.shields.io/badge/Handlebars.js-141414?style=for-the-badge&logo=Handlebars.js&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AlpineJs](https://img.shields.io/badge/Alpine.js-2D3441?style=for-the-badge&logo=Alpine.js&logoColor=77C1D2)
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
