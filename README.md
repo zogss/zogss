@@ -1,7 +1,5 @@
 ### <p align="center">Hi <img src="gifs/hi.gif" width="25">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
 
-<p align="center"><img alt="achievements" width="100%" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&column=8" /></p>
-
 #### 📫 Contact me:
 
 <a href="mailto:yanlucasbranco@gmail.com-" target="_blank">
@@ -39,11 +37,12 @@
 
 #### <img src="gifs/haha.gif" width="25"> Github stats
 
-<p align="center">
-    <img alt="status github, commits, etc..." height="180px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /><br>
-    <img alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
-</p><br>
+<p align="center"></br>
+    <img alt="status github, commits, etc..." height="180px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6"
+    />
+    <img alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/></br>
+    <img alt="achievements" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&margin-w=8&column=7&count_private=true" />
+</p></br>
 
 ### <img src="gifs/rocket.gif" width="45"> My contribuitions
 
