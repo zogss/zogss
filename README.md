@@ -7,7 +7,11 @@
 </a>
 
 <a href="https://www.instagram.com/yan_llucasb/" target="_blank">
-<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img alt="instagram" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/yan-lucas-54aa08216/" target="_blank">
+<img alt="linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 #### ⚙️ My skills
