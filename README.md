@@ -33,6 +33,7 @@
 ![Storybook](https://img.shields.io/badge/Storybook-f2437e?style=for-the-badge&logo=Storybook&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-683294?style=for-the-badge&logo=Gatsby&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=Angular&logoColor=fff)
+![ReactiveX](https://img.shields.io/badge/ReactiveX-b7178c?style=for-the-badge&logo=ReactiveX&logoColor=fff)
 
 #### 📚 Learning
 
