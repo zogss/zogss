@@ -1,4 +1,4 @@
-### <p align="center">Hi <img src="gifs/hi.gif" width="25">, my name is Yan Lucas </br> </br> I'am a frontend developer, learning to be a fullstack developer!</p>
+### <p align="center">Hi <img src="gifs/hi.gif" width="22">, my name is Yan Lucas </br> </br> I'm a software engineer and frontend developer passionate about programming and games</p>
 
 #### 📫 Contact me:
 
@@ -30,16 +30,18 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Storybook](https://img.shields.io/badge/Storybook-f2437e?style=for-the-badge&logo=Storybook&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-683294?style=for-the-badge&logo=Gatsby&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=Angular&logoColor=fff)
 ![ReactiveX](https://img.shields.io/badge/ReactiveX-b7178c?style=for-the-badge&logo=ReactiveX&logoColor=fff)
 
 #### 📚 Learning
 
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AlpineJs](https://img.shields.io/badge/Alpine.js-2D3441?style=for-the-badge&logo=Alpine.js&logoColor=77C1D2)
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-de33a6?style=for-the-badge&logo=graphql&logoColor=fff)
 
 #### <img src="gifs/haha.gif" width="25"> Github stats
 
