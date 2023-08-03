@@ -28,6 +28,8 @@
 ![HandlebarsJs](https://img.shields.io/badge/Handlebars.js-141414?style=for-the-badge&logo=Handlebars.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled%20components-4c4c4c.svg?&style=for-the-badge&logo=styled-components&logoColor=#DB7093)
+![MaterialUI](https://img.shields.io/badge/material%20ui-007FFF.svg?&style=for-the-badge&logo=mui&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
