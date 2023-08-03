@@ -36,12 +36,12 @@
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=Angular&logoColor=fff)
 ![ReactiveX](https://img.shields.io/badge/ReactiveX-b7178c?style=for-the-badge&logo=ReactiveX&logoColor=fff)
+![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-de33a6?style=for-the-badge&logo=graphql&logoColor=fff)
 
 #### 📚 Learning
 
 ![AlpineJs](https://img.shields.io/badge/Alpine.js-2D3441?style=for-the-badge&logo=Alpine.js&logoColor=77C1D2)
-![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/GraphQL-de33a6?style=for-the-badge&logo=graphql&logoColor=fff)
 
 #### <img src="gifs/haha.gif" width="25"> Github stats
 
