@@ -1,4 +1,4 @@
-### <p align="center">Hi <img src="gifs/hi.gif" width="22">, my name is Yan Lucas </br> </br> I'm a software engineer and frontend developer passionate about programming and games</p>
+### <p align="center">Hi <img src="gifs/hi.gif" width="22" />, my name is Yan Lucas </br> </br> I'm a software engineer and frontend developer passionate about programming and games</p>
 
 #### 📫 Contact me:
 
