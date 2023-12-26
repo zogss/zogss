@@ -43,16 +43,25 @@
 
 #### <img src="gifs/haha.gif" width="25"> Github stats
 
-<p align="center"></br>
+<p align="center">
+</br>
     <img alt="status github, commits, etc..." height="180px" src="https://github-readme-stats.vercel.app/api?username=zogss&count_private=true&show_icons=true&custom_title=Github&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6"
     />
     <img alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zogss&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/></br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zogss&theme=radical&border_radius=6&background=45%2C000000%2C130F40" alt="GitHub Streak" /><br/>
     <img alt="achievements" src="https://github-profile-trophy.vercel.app/?username=zogss&theme=onestar&margin-w=8&column=7&count_private=true" />
-</p></br>
+</p>
+</br>
 
 ### <img src="gifs/rocket.gif" width="45"> My contribuitions
 
-![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/zogss/zogss/blob/output/github-contribution-grid-snake.svg) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=zogss&color=blue&style=flat-square"/>
  -->
