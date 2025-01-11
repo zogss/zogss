@@ -39,10 +39,12 @@
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-de33a6?style=for-the-badge&logo=graphql&logoColor=fff)
 ![AlpineJs](https://img.shields.io/badge/Alpine.js-2D3441?style=for-the-badge&logo=Alpine.js&logoColor=77C1D2)
+</br>
 
 #### 📚 Learning
 
 ![NestJs](https://img.shields.io/badge/Nestjs-050708?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+</br>
 
 #### <img src="gifs/haha.gif" width="25"> Github stats
 
@@ -57,8 +59,7 @@
 
 ### <img src="gifs/rocket.gif" width="45"> My contribuitions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zogss/zogss/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zogss/zogss/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zogss/zogss/output/github-contribution-grid-snake.svg" />
-</picture>
+</br>
+<div align="center" style="background-color: #0D1117; border-radius: 4px">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zogss/zogss/output/github-contribution-grid-snake-dark.svg" />
+</div>
