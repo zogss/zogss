@@ -59,7 +59,6 @@
 
 ### <img src="gifs/rocket.gif" width="45"> My contribuitions
 
-</br>
-<div align="center" style="background-color: #0D1117; border-radius: 4px">
+<div align="center" style="background-color: #0D1117; border-radius: 4px;">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zogss/zogss/output/github-contribution-grid-snake-dark.svg" />
 </div>
