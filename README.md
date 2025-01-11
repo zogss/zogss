@@ -4,8 +4,8 @@
 
 #### 📫 Contact me:
 
-<a href="mailto:yanlucasbranco@gmail.com-" target="_blank">
-<img alt="e-mail" src="https://img.shields.io/badge/yanlucasbranco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:yanlucasdev@gmail.com-" target="_blank">
+<img alt="e-mail" src="https://img.shields.io/badge/yanlucasdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/yan_llucasb/" target="_blank">
@@ -17,28 +17,35 @@
 </a>
 
 #### ⚙️ My skills
-
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8BBF3D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/styled%20components-4c4c4c.svg?&style=for-the-badge&logo=styled-components&logoColor=#DB7093)
-![MaterialUI](https://img.shields.io/badge/material%20ui-007FFF.svg?&style=for-the-badge&logo=mui&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Storybook](https://img.shields.io/badge/Storybook-f2437e?style=for-the-badge&logo=Storybook&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-683294?style=for-the-badge&logo=Gatsby&logoColor=fff)
-![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=Angular&logoColor=fff)
-![ReactiveX](https://img.shields.io/badge/ReactiveX-b7178c?style=for-the-badge&logo=ReactiveX&logoColor=fff)
-![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/GraphQL-de33a6?style=for-the-badge&logo=graphql&logoColor=fff)
-![AlpineJs](https://img.shields.io/badge/Alpine.js-2D3441?style=for-the-badge&logo=Alpine.js&logoColor=77C1D2)
+![Handlebars](https://img.shields.io/badge/Handlebars-FF7C00?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 </br>
 
 #### 📚 Learning
