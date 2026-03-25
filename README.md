@@ -46,10 +46,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![React Navigation](https://img.shields.io/badge/React_Navigation-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-</br>
-
-#### 📚 Learning
-
 ![NestJs](https://img.shields.io/badge/Nestjs-050708?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 </br>
 
